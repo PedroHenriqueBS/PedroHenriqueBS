@@ -1,7 +1,8 @@
-<code> import Developer from 'Pedro';
+```javascript
+import Developer from 'Pedro';
 
 class AboutMe extends Developer {
-  expertise = 'Software developer';
+  expertise = 'Software Developer';
 }
 
 class Skills extends Developer {
@@ -9,4 +10,4 @@ class Skills extends Developer {
   frameworks_and_libraries = ['Bootstrap', 'Styled-Components', 'Angular'];
   versioning_system = ['Git'];
 }
-</code>
+```
