@@ -10,7 +10,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens = ["HTML, CSS, Sass, JavaScript, TypeScript"];
-  bibliotecas = ["Bootstrap, Swiper, Tailwind CSS"];
-  frameworks = ["Angular, ReactJS"];
+  bibliotecas = ["Bootstrap, Swiper, Tailwind CSS, React"];
+  frameworks = ["Angular, Next.js"];
 }
 ```
