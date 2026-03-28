@@ -11,10 +11,4 @@ class SobreMim extends Desenvolvedor {
   ];
   local = "Gravataí-RS";
 }
-
-class Skills extends Desenvolvedor {
-  linguagens = ["HTML, CSS, Sass, JavaScript, TypeScript"];
-  bibliotecas = ["Bootstrap, Swiper, Tailwind CSS, React"];
-  frameworks = ["Angular, Next.js"];
-}
 ```
