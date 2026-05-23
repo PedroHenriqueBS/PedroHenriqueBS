@@ -1,20 +1,14 @@
-# Hey, I'm Pedro Henrique 👋
+## Hey, I'm Pedro Henrique
 
 Software Engineer passionate about building modern web platforms, backend architecture, and AI-driven applications. Currently pursuing a degree in Software Engineering, combining academic foundations with hands-on experience in JavaScript, TypeScript, Node.js and React — with a strong focus on performance, scalability, and developer experience.
 
----
+#### About me
 
-## About me
+- Software Engineer at [@hortti](https://institucional.hortti.com/)
+- Building personal projects and exploring new technologies
+- Continuous learner
 
-- 💻 Software Engineer at [@hortti](https://institucional.hortti.com/)
-- 🛠️ Building personal projects and exploring new technologies
-- 📚 Continuous learner
-
----
-
-## Tech Stack
-
-**Languages**
+#### Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -31,9 +25,7 @@ Software Engineer passionate about building modern web platforms, backend archit
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-## Connect with me
+#### Connect with me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-23418b213/)
 - [![Email](https://img.shields.io/badge/Email-pedrohenriqueb366@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedrohenriqueb366@gmail)
