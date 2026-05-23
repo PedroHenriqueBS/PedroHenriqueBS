@@ -6,7 +6,7 @@ Software Engineer passionate about building modern web platforms, backend archit
 
 ## About me
 
-- 💻 Software Engineer at [@hortti](https://institucional.hortti.com/))
+- 💻 Software Engineer at [@hortti](https://institucional.hortti.com/)
 - 🛠️ Building personal projects and exploring new technologies
 - 📚 Continuous learner
 
